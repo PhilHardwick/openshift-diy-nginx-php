@@ -15,7 +15,7 @@ More information about openshift: https://openshift.redhat.com/
     - The functions used for checking the versions and installing
 * deploy
     - This will render copy the nginx and php conf files
-    - Copy the .bash_profile if there is none kajhsbfikj
+    - Copy the .bash_profile if there is none kajhsbfikjasfasf
 * common
     - A common include script for the action hooks (just setting some path's)
 * start
